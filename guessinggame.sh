@@ -16,7 +16,7 @@ function guess(){
             echo " congratulation,you are right!"
         break;
         fi
-    done
+    done 
 }
 echo "guess the files number in the current directory!"
 guess
